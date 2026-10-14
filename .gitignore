@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+campaigns/
+target/
+*.log
+.idea/
+*.iml
+.vscode/
+_w*.py
